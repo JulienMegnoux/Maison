@@ -1,0 +1,40 @@
+[
+    {
+        "email": "julien.megnoux@me.com",
+        "password": "$2y$10$tfB4B2eFugH2oRCqJAcN6uxfaw.PKK8NDFEYHBuTEZ\/gbzwKGxP42",
+        "nom": "test",
+        "prenom": "Julien",
+        "age": 56,
+        "genre": "femme",
+        "date_naissance": "2003-02-20",
+        "type_membre": "enfant",
+        "photo": "C:\\wamp64\\www\\maison\/uploads\/WIN_20240529_17_27_27_Pro.jpg",
+        "validated": true
+    },
+    {
+        "email": "julien.megnoux@me.com",
+        "password": "$2y$10$isWIGohyGlyzhSW9vPstteuJ1qdN8HZskozzU59ZOyzw5VTB0Qwke",
+        "nom": "c",
+        "prenom": "csd",
+        "age": 56,
+        "genre": "femme",
+        "date_naissance": "2003-02-20",
+        "type_membre": "frere",
+        "photo": "C:\\wamp64\\www\\maison\/uploads\/WIN_20240529_17_27_27_Pro.jpg",
+        "validation_code": 456725,
+        "validated": false
+    },
+    {
+        "email": "julien.megnoux@me.com",
+        "password": "$2y$10$5wNyCUYf5nVbUfBDTUerZO8BuWQU5pjedHO8O5Fr61zHDdB\/Nf4\/S",
+        "nom": "etst",
+        "prenom": "htdb",
+        "age": 23,
+        "genre": "homme",
+        "date_naissance": "2003-07-27",
+        "type_membre": "frere",
+        "photo": "C:\\wamp64\\www\\maison\/uploads\/WIN_20240529_17_27_27_Pro.jpg",
+        "validation_code": 118808,
+        "validated": false
+    }
+]
